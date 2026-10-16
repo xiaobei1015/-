@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.idea/
+
+# 敏感数据(不上传)
+meeting_project/meeting_templates/*.docx
+chroma_rag_db/
+chat_history.db
+chat_history.db-wal
+chat_history.db-shm
+imported_files.json
